@@ -1,0 +1,9 @@
+boto3
+requests
+pexels-api
+moviepy
+python-dotenv
+pillow
+transformers
+torch
+numpy==1.21.4
